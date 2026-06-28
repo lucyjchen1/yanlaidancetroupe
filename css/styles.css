@@ -17,6 +17,8 @@ a:hover{
 	display:table-cell;
 	font-size:22px;
 	}
+
+
 #nav a{
 	text-decoration:none;
 	}
@@ -80,6 +82,22 @@ text-align:center;}
 .col{
 column-count:2;}
 
+.coltext{
+	margin-right: 20%;
+	padding-top: 10%;
+}
+
+.icons{
+	padding-bottom: 50px;
+}
+
+.icon{
+	width: 50px;
+	display: table-cell;
+	text-align: center;
+	padding-right: 10px;
+}
+
 .pageheader{
 background:#e5233a;
 color:white;
@@ -99,8 +117,6 @@ line-height:35px;
 font-weight: 880;}
 
 .footer{
-	width:100%;
-	display:table-cell;
 	padding:15px;
 	padding-left:20%;
 	padding-right:20%;
